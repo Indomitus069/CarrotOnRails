@@ -277,6 +277,12 @@ By centralizing data fetching and computation while using the same proven FFT al
 
 ---
 
+## 👥 Contributors
+
+- **[indomitus](https://github.com/indomitus069)** - Developer and Maintainer
+
+---
+
 ## 🔗 Links
 
 - **GitHub**: [https://github.com/indomitus069/carrotonrails](https://github.com/indomitus069/carrotonrails)
